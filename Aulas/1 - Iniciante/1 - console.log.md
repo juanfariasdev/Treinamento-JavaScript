@@ -49,7 +49,7 @@ console.log(123456, 12.332, 'Juan Pablo Farias');
 ### EXERCÍCIO
 NÃO VALE COPIAR!!!
 A Idéia é você aprender a fazer e não aprender a copiar!!!
- [Exercicio console.log](./exercicio/1-%20console.log.js).
+ [Exercicio console.log](./exercicio/1%20-%20console.log.js).
 
 Resolução: 
- [Exercicio console.log](./exercicio/resolucao/1-%20console.log.js).
+ [Exercicio console.log](./exercicio/resolucao/1%20-%20console.log.js).

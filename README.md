@@ -18,6 +18,10 @@ Clone nosso projeto para o seu ambiente de desenvolvimento.
 git clone --
 ```
 
+## Aulas
+
+Para iniciar as aulas, basta [Clicar aqui](./Aulas.md)
+
 
 ## Estrutura de arquivos
 
