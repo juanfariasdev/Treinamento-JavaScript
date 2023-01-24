@@ -33,11 +33,12 @@ Ou vice-versa:
 console.log('Estou falando muito "sério"!!');
 ```
 
-A Craze serve deixa usar Aspas duplas("") e aspas simples ('') e pode usar variáveis dentro do texto da seguinte forma:
+A Craze serve deixa usar Aspas duplas("") e aspas simples ('') e pode usar variáveis dentro do texto. da seguinte forma
 ```shell
-var site = "https://juanpablofarias.com"
+let site = "https://juanpablofarias.com"
 console.log(`Já 'olhou' meu "site?" ${site}`);
 ```
+Não se preocupe com o "let" nesse momento, apenas saiba que ele serve para declarar uma variável e logo terá uma aula sobre os tipos de variável!
 
 ### Número
 No caso do Número, não é necessário envolver com as Aspas 
