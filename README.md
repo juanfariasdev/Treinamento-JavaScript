@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Este projeto serve para te treinar do basico ao avançado em JavaScript.
+Este projeto serve para treinar do básico ao avançado em JavaScript.
 
 Futuramente devo criar esse mesmo treinamento em vídeo.
 
@@ -28,17 +28,17 @@ Nossas imagens, fontes, etc.
 
 **css**
 
-O arquivo principal que importa nossos modulos Sass para a geração do tema.
+O arquivo principal que importa nossos módulos Sass para a geração do tema.
 
 
 **js**
 
-Todo o JavaScript que será ultilizado no treinamento.
+Todo o JavaScript que será utilizado no treinamento.
 
 
 **ts**
 
-Todo o JavaScript que será ultilizado no treinamento.
+Todo o JavaScript que será utilizado no treinamento.
 
 
 **Outros arquivos**
